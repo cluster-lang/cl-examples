@@ -1,0 +1,29 @@
+# ==============================================================================
+# Cluster Language Examples: Git Ignore
+# ==============================================================================
+
+# Exclude all comparative baseline language folders (Pure Cluster examples only)
+c++/
+csharp/
+go/
+javascript/
+mysql/
+python/
+rust/
+sql/
+analytics_*
+INDEX.md
+
+# Inside cluster folder: exclude cache, IDE configs, and internal index
+cluster/.vscode/
+cluster/.cl_cache/
+cluster/INDEX.md
+
+# General caches and system artifacts
+.vscode/
+.cl_cache/
+*.log
+*.tmp
+.DS_Store
+cluster/cl-binary/
+*.out

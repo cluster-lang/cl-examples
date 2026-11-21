@@ -1,0 +1,47 @@
+Cluster Community & Fair-Source License (CCFL v2.0 / Strict-Distribution)
+
+Copyright (c) 2026 Mohammad Zaid (zk-mohammad) / Cluster Organization
+Official Repository: https://github.com/cluster-lang/cl-examples
+Author Account: https://github.com/zk-mohammad
+All rights reserved.
+
+1. PERMITTED INDEPENDENT, ACADEMIC & RESEARCH USE:
+Permission is hereby granted, free of charge, to any individual developer,
+student, educator, academic researcher, non-profit organization, or community
+developer to obtain, download, test, run, and study these code examples and
+benchmarks ("the Software") for personal, educational, and development purposes,
+subject to the conditions herein.
+
+2. CONTENT INTEGRITY, ANTI-TAMPERING & CANONICAL DISTRIBUTION:
+The official Cluster Language Examples repository belongs exclusively to Mohammad
+Zaid (GitHub: zk-mohammad) and the official Cluster Organization
+(https://github.com/cluster-lang).
+
+To maintain code integrity, benchmark accuracy, and prevent malicious tampering:
+- Unauthorized duplication, modified distribution, rogue forks, and third-party
+  mirroring claiming official status are STRICTLY PROHIBITED.
+- Exactly ONE canonical repository distribution exists, officially published under
+  https://github.com/cluster-lang/cl-examples.
+- All duplicate copies, unauthorized forks, or third-party mirrors are strictly
+  INVALID and unauthorized.
+
+3. COMMERCIAL USE RESTRICTIONS:
+Packaging these examples into commercial closed-source educational courses, paid
+products, or commercial distributions by for-profit corporate entities requires an
+explicit commercial license from the copyright holder.
+
+Commercial licensing inquiries: zkalamgir@proton.me
+
+4. CONTRIBUTIONS & STRICT PURE CLUSTER MANDATE:
+All contributions to this repository must be 100% pure Cluster language code (.cl).
+External C/C++, Python, Rust, or JavaScript runtime dependencies are strictly
+forbidden. All algorithms, data structures, and examples must run natively in Cluster.
+
+5. WARRANTY DISCLAIMER:
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
